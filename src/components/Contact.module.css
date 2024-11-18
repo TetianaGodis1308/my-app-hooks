@@ -1,0 +1,34 @@
+.container{
+    background-color: white; 
+    width: 500px;
+    /* height: 500px; */
+    position: absolute;    
+    top: 75%; 
+    left: 50%;   
+    transform: translate(-50%, -50%); 
+
+}
+.h1{
+    font-size: 24px; 
+    font-weight: bold;
+    margin-bottom: 20px; 
+}
+.button{
+    width: 100px;
+}
+.element{
+    display: flex;
+    list-style-type: none;
+    margin-left: 0px ;
+    padding: 15px;
+    font-size: 20px;
+    border-bottom: 1px solid #e1e1e1; 
+    transition: background-color 0.3s; 
+    font-size: 18px;   
+    font-weight: 600; 
+    background-color: aquamarine;
+}
+.box{
+    border: 2px solid black;
+    margin-bottom: 3px;
+}
