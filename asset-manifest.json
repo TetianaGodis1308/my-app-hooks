@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//TetianaGodis1308.github.io/my-app-hooks/static/css/main.41459026.css",
-    "main.js": "//TetianaGodis1308.github.io/my-app-hooks/static/js/main.02bf4ada.js",
-    "static/js/453.7e9299e8.chunk.js": "//TetianaGodis1308.github.io/my-app-hooks/static/js/453.7e9299e8.chunk.js",
-    "index.html": "//TetianaGodis1308.github.io/my-app-hooks/index.html",
-    "main.41459026.css.map": "//TetianaGodis1308.github.io/my-app-hooks/static/css/main.41459026.css.map",
-    "main.02bf4ada.js.map": "//TetianaGodis1308.github.io/my-app-hooks/static/js/main.02bf4ada.js.map",
-    "453.7e9299e8.chunk.js.map": "//TetianaGodis1308.github.io/my-app-hooks/static/js/453.7e9299e8.chunk.js.map"
+    "main.css": "/my-app-hooks/static/css/main.41459026.css",
+    "main.js": "/my-app-hooks/static/js/main.43e5e731.js",
+    "static/js/453.7e9299e8.chunk.js": "/my-app-hooks/static/js/453.7e9299e8.chunk.js",
+    "index.html": "/my-app-hooks/index.html",
+    "main.41459026.css.map": "/my-app-hooks/static/css/main.41459026.css.map",
+    "main.43e5e731.js.map": "/my-app-hooks/static/js/main.43e5e731.js.map",
+    "453.7e9299e8.chunk.js.map": "/my-app-hooks/static/js/453.7e9299e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41459026.css",
-    "static/js/main.02bf4ada.js"
+    "static/js/main.43e5e731.js"
   ]
 }
